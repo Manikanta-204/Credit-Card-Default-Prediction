@@ -1,2 +1,2 @@
 # Credit-Card-Default-Prediction
-Credit Card Default Prediction By Using Classification ML
+Credit Card Default Prediction By Using ML Classification 
